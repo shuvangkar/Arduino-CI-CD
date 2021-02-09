@@ -26,6 +26,7 @@ arduino-cli lib install --git-url  https://github.com/shuvangkar/MemQ.git
 arduino-cli lib install --git-url  https://github.com/shuvangkar/ramQ.git
 arduino-cli lib install --git-url  https://github.com/shuvangkar/nRF24.git
 
+
 # install library using git
 # cd ~/Arduino/libraries
 # pwd
