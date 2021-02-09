@@ -23,3 +23,4 @@ sudo arduino-cli config set library.enable_unsafe_install true  #enable download
 cd ~/Arduino/libraries
 apt-get install git -y
 git clone https://github.com/shuvangkar/FlashMemory.git
+git clone https://github.com/me-no-dev/AsyncTCP.git
