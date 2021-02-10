@@ -10,3 +10,18 @@
 `arduino-cli lib install --zip-path <zip path>`   
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+for shell script :  https://codeblog.dotsandbrackets.com/gitlab-ci-esp32-arduino/
+
+
